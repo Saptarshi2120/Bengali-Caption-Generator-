@@ -1,0 +1,10 @@
+streamlit
+numpy
+pickle-mixin
+tensorflow
+keras
+requests
+pillow
+opencv-python-headless
+opencv-python
+matplotlib
